@@ -36,6 +36,10 @@ Done.
 == Restarting application server ==
 ```
 
+### Corriendo local
+
+Deben correr `bin/setup` si en lugar de Gitpod usan sus máquinas locales.
+
 # Parte 1 - Git
 
 Recomendación: Ver el estado de git después de cada paso.
